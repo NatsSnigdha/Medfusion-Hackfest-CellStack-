@@ -546,7 +546,7 @@ def render_chatbot_tab(data: dict):
 
     # ── Check Groq key upfront ─────────────────────────────────
     groq_key = os.getenv("GROQ_API_KEY", "")
-    if not groq_key or groq_key == "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":
+    if not groq_key or groq_key == "your_groq_api_key_here":
         st.warning(
             "**Groq API key not set.** The chatbot needs a free key to work.  \n"
             "1. Go to [console.groq.com](https://console.groq.com) — no credit card needed  \n"
