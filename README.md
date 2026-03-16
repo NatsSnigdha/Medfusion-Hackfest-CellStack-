@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DiseaseWatch — Real-time Disease Surveillance Dashboard
 
 ## Setup (5 minutes)
@@ -63,3 +64,10 @@ disease_surveillance/
 - **Math sandbox** — interactive R_t and outbreak score sliders
 - **World map** — choropleth with hover details
 - **Progressive disclosure** — show number → plain English → full formula on demand
+=======
+# Medfusion-Hackfest-CellStack-
+Team:
+Padma Saathvika,
+Vishrutha Udandra,
+Snigdha Naithani
+>>>>>>> f978995ac82634045d61317537f3a3be667b6926
