@@ -1,0 +1,8 @@
+.env 
+.env.example 
+__pycache__/ 
+*.pyc 
+venv/ 
+data/surveillance.duckdb 
+data/snapshots/ 
+.DS_Store 
