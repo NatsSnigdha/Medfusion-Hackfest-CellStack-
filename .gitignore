@@ -6,3 +6,4 @@ venv/
 data/surveillance.duckdb 
 data/snapshots/ 
 .DS_Store 
+"app.py" 
